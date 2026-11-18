@@ -6,6 +6,8 @@ struct ContentView: View {
         Text("Hello, world!")
             .padding()
         Text("Test")
+            .padding()
+        Image(systemName: "car")
     }
 }
 
